@@ -10,6 +10,8 @@
 
 > **English** | [中文 (Chinese)](README.zh-CN.md)
 
+![A2UI Chat Demo Screenshot](docs/Screenshot.png)
+
 A React 19 + TypeScript + Vite project that renders [A2UI](https://a2ui.org/) (Agent-to-User Interface) generated UI, powered by the Gemini API as a real message source.
 
 ## Tech Stack

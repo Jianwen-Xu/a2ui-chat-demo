@@ -10,6 +10,8 @@
 
 > [English](README.md) | **中文**
 
+![A2UI Chat Demo 截图](docs/Screenshot.png)
+
 React 19 + TypeScript + Vite 项目，用于渲染 [A2UI](https://a2ui.org/)（Agent-to-User Interface）生成的 UI，并接入 Gemini 作为真实消息源。
 
 ## 技术栈
