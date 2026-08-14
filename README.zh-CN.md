@@ -1,5 +1,15 @@
 # a2ui-chat-demo — A2UI React Demo
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
+[![A2UI](https://img.shields.io/badge/A2UI-v0.9-4285F4?logo=google&logoColor=white)](https://a2ui.org/)
+[![Gemini](https://img.shields.io/badge/Gemini-API-8E75B2?logo=google&logoColor=white)](https://ai.google.dev/gemini-api/docs)
+[![pnpm](https://img.shields.io/badge/pnpm-11-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
+
+> [English](README.md) | **中文**
+
 React 19 + TypeScript + Vite 项目，用于渲染 [A2UI](https://a2ui.org/)（Agent-to-User Interface）生成的 UI，并接入 Gemini 作为真实消息源。
 
 ## 技术栈
